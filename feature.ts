@@ -7,5 +7,5 @@ sum =a + b;
 
 
 ```
-
+conflict
 resolved
