@@ -8,4 +8,4 @@ sum =a + b;
 
 ```
 
-there are conflict
+resolved
